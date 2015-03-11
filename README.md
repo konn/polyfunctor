@@ -1,11 +1,11 @@
-polyfunctors - some description
-================================
+polyfunctors - general n-ary functors
+======================================
 
 [![Build Status](https://travis-ci.org/konn/polyfunctors.svg?branch=master)](https://travis-ci.org/konn/polyfunctors) 
-[![loop-effin](http://img.shields.io/hackage/v/polyfunctors.svg)](http://hackage.haskell.org/package/polyfunctors)
+[![polyfunctors](http://img.shields.io/hackage/v/polyfunctors.svg)](http://hackage.haskell.org/package/polyfunctors)
 
 ## What is this?
-This is my great application.
+Generalizig `Functors` and `Bifunctors` to arbitrary n-ary functors.
 
 ## Install
 
