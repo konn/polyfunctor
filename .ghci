@@ -1,0 +1,4 @@
+:set -XTypeOperators
+:set -XDataKinds -XPolyKinds
+:set -XTypeFamilies -XGADTs
+:set -XMultiParamTypeClassses
